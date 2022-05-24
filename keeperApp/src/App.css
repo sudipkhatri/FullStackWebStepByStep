@@ -1,0 +1,47 @@
+.Keeper-Header{
+
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  background-color: antiquewhite;
+}
+
+.Keeper-Footer{
+  position: absolute;
+  height: 2.5rem;
+  display:  flex;
+  justify-content: center;
+  align-items: center;
+  background-color: thistle;
+  
+}
+
+.Keeper-Notes{
+  display:  flex;
+  justify-content: center;
+  align-items: center;
+  background-color:wheat;
+}
+.Keeper-Content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 0 0 50px;
+}
+
+.Keeper-Heading{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.25;
+  letter-spacing: 1.2px;
+}
+
+.Keeper-Para{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.25;
+  letter-spacing: 1.2px;
+}
+
